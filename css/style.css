@@ -1,0 +1,53 @@
+body {
+    background-image: url("../kens_Bground.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+}
+h1 {
+  color: #FFF;
+  font-family: 'Pacifico', monospace;
+  text-align: center;
+}
+p {
+  color: #FFF;
+  align-items: center;
+  font-family: serif;
+  font-weight: bold;
+}
+#title {
+  margin-top: 30px;
+  align-items: center;
+}
+#text_box {
+  border: solid;
+  border-color: #FFF;
+  border-radius: 15px;
+  border-
+  padding: 5px;
+  margin-top: 30px;
+  width: 100%;
+  background-color: rgba(254,254,254,.37);
+}
+#signature {
+  text-align: center;
+  padding: 2px;
+}
+#button {
+  margin-top: 20px;
+  align-items: center;
+  color: red;
+  border: solid;
+}
+#bt {
+  align-content: center;
+  
+}
+#blue {
+  border: solid;
+  color: blue;
+}
+#green {
+  border: solid;
+  color: green;
+}
